@@ -1,0 +1,15 @@
+*~
+*.swp
+.bundle
+*.rbc
+*.swo
+*.rdb
+.DS_Store
+tmp/
+log/
+public/assets/
+.rbx/
+coverage/
+*-manifest.json
+.env*
+
